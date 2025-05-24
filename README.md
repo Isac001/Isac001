@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Isac Diogenes
+# Olá Todos! 👋 Eu sou Isac Diogenes. Desenvolvedor Full-Stack com mais de 2 anos de experiência na construção de MVPs, pesquisa acadêmica em software e atuação como freelancer. Apaixonado por tecnologia e inovação, tenho um forte comprometimento com trabalho em equipe e entrega de resultados tangíveis. Atuo implementando funcionalidades, corrigindo bugs e otimizando sistemas, sempre buscando transformar ideias em soluções reais. Atualmente, estou me especializando em back-end, Cloud Services e DevOps através de estudos contínuos e projetos práticos, com o objetivo de elevar minha expertise e contribuir para soluções escaláveis e eficientes.
 
 ## 💻 Tech Stack
 
