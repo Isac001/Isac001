@@ -2,7 +2,7 @@
 
 ## 🚀 Desenvolvedor Full-Stack 
 
-Com mais de 2 anos de experiência na construção de MVPs, pesquisa acadêmica em software e atuação como freelancer.
+### Com mais de 2 anos de experiência na construção de MVPs, pesquisa acadêmica em software e atuação como freelancer.
 
 ## 💻 Tech Stack
 
