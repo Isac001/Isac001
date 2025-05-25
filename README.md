@@ -41,5 +41,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isac001)
 
 ---
-
-⚡ Curiosidade: Sou apaixonado por resolver problemas complexos com código limpo e eficiente!
