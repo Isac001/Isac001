@@ -30,8 +30,6 @@ Com mais de 2 anos de experiência na construção de MVPs, pesquisa acadêmica 
 
 ![Isac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isac001&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isac001&layout=compact&theme=radical&hide_border=true)
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isac001&theme=radical&hide_border=true)
