@@ -1,8 +1,8 @@
 # Olá Todos! 👋 Eu sou Isac Diogenes.
 
-## 🚀 Desenvolvedor Full-Stack 
+## 🚀 Desenvolvedor Back-end & DevOps
 
-### Com mais de 2 anos de experiência na construção de projetos para empresas privadas, pesquisa acadêmica em software e atuação como freelancer.
+### Com mais de 3 anos de experiência na construção de projetos para empresas privadas, pesquisa acadêmica em software e atuação como freelancer.
 
 ## 💻 Tech Stack
 
@@ -13,14 +13,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### ☁️ DevOps
+### ☁️ Infraestrutura e Nuvem
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🛠️ Outras Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
